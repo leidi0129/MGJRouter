@@ -1,6 +1,5 @@
 # MGJRouter
-一个高效/灵活的 iOS URL Router
-fork from： [MGJRouter](https://github.com/lyujunwei/MGJRouter)
+Fork from： [MGJRouter](https://github.com/lyujunwei/MGJRouter)
 
 ## 为什么要再造一个轮子？
 已经有几款不错的 Router 了，如 [JLRoutes](https://github.com/joeldev/JLRoutes), [HHRouter](https://github.com/Huohua/HHRouter), 但细看了下之后发现，还是不太满足需求。
